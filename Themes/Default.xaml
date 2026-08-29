@@ -1,0 +1,245 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!-- Base Window Colors -->
+    <Color x:Key="PrimaryWindowColor">#000000</Color>
+    <Color x:Key="SecondaryWindowColor">#5F1e1e1e</Color>
+    <Color x:Key="TertiaryWindowColor">#5F282828</Color>
+    <Color x:Key="PrimaryDropShadowColor">#ACA1FF</Color>
+
+    <Color x:Key="PrimaryForegroundColor1">#D7D7D7</Color>
+    <Color x:Key="PrimaryForegroundColor2">#B9B9B9</Color>
+
+    <Color x:Key="SecondaryForegroundColor1">#FFFFFF</Color>
+    <Color x:Key="SecondaryForegroundColor2">#D7D7D7</Color>
+
+    <Color x:Key="TertiaryForegroundColor1">#FFFFFF</Color>
+    <Color x:Key="TertiaryForegroundColor2">#FFFFFF</Color>
+
+    <Color x:Key="DarkForegroundColor1">#636363</Color>
+    <Color x:Key="DarkForegroundColor2">#4b4b4b</Color>
+
+    <Color x:Key="WindowBorderColor">#323232</Color>
+
+    <Color x:Key="AccentColor1">#ACA1FF</Color>
+    <Color x:Key="AccentColor2">#835dff</Color>
+
+    <!-- Base Primary Button Colors -->
+    <Color x:Key="PrimaryButtonColor">#5F1e1e1e</Color>
+    <Color x:Key="PrimaryButtonHoverColor">#6F282828</Color>
+    <Color x:Key="PrimaryButtonPressColor">#7F323232</Color>
+
+    <Color x:Key="PrimaryButtonBorderColor">#282828</Color>
+    <Color x:Key="PrimaryButtonHoverBorderColor">#323232</Color>
+    <Color x:Key="PrimaryButtonPressBorderColor">#3c3c3c</Color>
+
+    <!-- Base Secondary Button Colors -->
+    <Color x:Key="SecondaryButtonColor">#8F000000</Color>
+    <Color x:Key="SecondaryButtonHoverColor">#9F000000</Color>
+    <Color x:Key="SecondaryButtonPressColor">#000000</Color>
+
+    <Color x:Key="SecondaryButtonBorderColor">#282828</Color>
+    <Color x:Key="SecondaryButtonHoverBorderColor">#323232</Color>
+    <Color x:Key="SecondaryButtonPressBorderColor">#3c3c3c</Color>
+
+    <!-- Base Close Button Colors -->
+    <Color x:Key="CloseButtonColor">#00000000</Color>
+    <Color x:Key="CloseButtonHoverColor">#ff5252</Color>
+    <Color x:Key="CloseButtonPressColor">#ff3636</Color>
+
+    <Color x:Key="CloseButtonBorderColor">#00000000</Color>
+    <Color x:Key="CloseButtonHoverBorderColor">#d14545</Color>
+    <Color x:Key="CloseButtonPressBorderColor">#d14545</Color>
+
+    <!-- Base Control Button Colors -->
+    <Color x:Key="ControlButtonColor">#00000000</Color>
+    <Color x:Key="ControlButtonHoverColor">#6F282828</Color>
+    <Color x:Key="ControlButtonPressColor">#7F323232</Color>
+
+    <Color x:Key="ControlButtonBorderColor">#00000000</Color>
+    <Color x:Key="ControlButtonHoverBorderColor">#323232</Color>
+    <Color x:Key="ControlButtonPressBorderColor">#3c3c3c</Color>
+
+    <!-- Base Logo Button Colors -->
+    <Color x:Key="LogoButtonColor">#00000000</Color>
+    <Color x:Key="LogoButtonHoverColor">#2F835dff</Color>
+    <Color x:Key="LogoButtonPressColor">#4F835dff</Color>
+
+    <Color x:Key="LogoButtonBorderColor">#00000000</Color>
+    <Color x:Key="LogoButtonHoverBorderColor">#4F835dff</Color>
+    <Color x:Key="LogoButtonPressBorderColor">#6F835dff</Color>
+
+    <!-- Base Page Button Colors -->
+    <Color x:Key="PageButtonColor">#00000000</Color>
+    <Color x:Key="PageButtonHoverColor">#6F282828</Color>
+    <Color x:Key="PageButtonPressColor">#7F282828</Color>
+    <Color x:Key="PageButtonDisabledColor">#9f835dff</Color>
+
+    <Color x:Key="PageButtonBorderColor">#00000000</Color>
+    <Color x:Key="PageButtonHoverBorderColor">#6F323232</Color>
+    <Color x:Key="PageButtonPressBorderColor">#7F323232</Color>
+    <Color x:Key="PageButtonDisabledBorderColor">#835dff</Color>
+
+    <!-- ScriptHub Button -->
+    <Color x:Key="ScriptHubButtonColor">#5F1e1e1e</Color>
+    <Color x:Key="ScriptHubButtonHoverColor">#5F1e1e1e</Color>
+    <Color x:Key="ScriptHubButtonPressColor">#5F1e1e1e</Color>
+
+    <Color x:Key="ScriptHubButtonBorderColor">#323232</Color>
+    <Color x:Key="ScriptHubButtonHoverBorderColor">#323232</Color>
+    <Color x:Key="ScriptHubButtonPressBorderColor">#323232</Color>
+
+    <!-- Base Status Colors -->
+    <Color x:Key="OnlineColor">#4fff78</Color>
+    <Color x:Key="OfflineColor">#ff5b4f</Color>
+
+    <!-- Window Brushes -->
+    <SolidColorBrush x:Key="PrimaryWindowBrush"
+         Color="{DynamicResource PrimaryWindowColor}" />
+    <SolidColorBrush x:Key="SecondaryWindowBrush"
+         Color="{DynamicResource SecondaryWindowColor}" />
+    <SolidColorBrush x:Key="TertiaryWindowBrush"
+         Color="{DynamicResource TertiaryWindowColor}" />
+    <SolidColorBrush x:Key="PrimaryDropShadowBrush"
+         Color="{DynamicResource PrimaryDropShadowColor}" />
+    <SolidColorBrush x:Key="AccentBrush1"
+         Color="{DynamicResource AccentColor1}" />
+    <SolidColorBrush x:Key="AccentBrush2"
+         Color="{DynamicResource AccentColor2}" />
+
+    <LinearGradientBrush x:Key="AccentGradientBrush" 
+                 StartPoint="0,0"
+                 EndPoint="0,1">
+        <GradientStop Color="{DynamicResource AccentColor1}" Offset="0" />
+        <GradientStop Color="{DynamicResource AccentColor2}" Offset="1" />
+    </LinearGradientBrush>
+
+    <LinearGradientBrush x:Key="PrimaryForegroundBrush" 
+                     StartPoint="0,0"
+                     EndPoint="0,1">
+        <GradientStop Color="{DynamicResource PrimaryForegroundColor1}" Offset="0" />
+        <GradientStop Color="{DynamicResource PrimaryForegroundColor2}" Offset="1" />
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="SecondaryForegroundBrush"
+                     StartPoint="0,0"
+                     EndPoint="0,1">
+        <GradientStop Color="{DynamicResource SecondaryForegroundColor1}" Offset="0" />
+        <GradientStop Color="{DynamicResource SecondaryForegroundColor2}" Offset="1" />
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="TertiaryForegroundBrush"
+                     StartPoint="0,0"
+                     EndPoint="0,1">
+        <GradientStop Color="{DynamicResource TertiaryForegroundColor1}" Offset="0" />
+        <GradientStop Color="{DynamicResource TertiaryForegroundColor2}" Offset="1" />
+    </LinearGradientBrush>
+    <LinearGradientBrush x:Key="DarkForegroundBrush"
+                     StartPoint="0,0"
+                     EndPoint="0,1">
+        <GradientStop Color="{DynamicResource DarkForegroundColor1}" Offset="0" />
+        <GradientStop Color="{DynamicResource DarkForegroundColor2}" Offset="1" />
+    </LinearGradientBrush>
+
+    <SolidColorBrush x:Key="WindowBorderBrush"
+         Color="{DynamicResource WindowBorderColor}" />
+
+    <!-- Primary Button Brushes -->
+    <SolidColorBrush x:Key="PrimaryButtonBrush"
+         Color="{DynamicResource PrimaryButtonColor}" />
+    <SolidColorBrush x:Key="PrimaryButtonHoverBrush"
+         Color="{DynamicResource PrimaryButtonHoverColor}" />
+    <SolidColorBrush x:Key="PrimaryButtonPressBrush"
+         Color="{DynamicResource PrimaryButtonPressColor}" />
+
+    <SolidColorBrush x:Key="PrimaryButtonBorderBrush"
+         Color="{DynamicResource PrimaryButtonBorderColor}" />
+    <SolidColorBrush x:Key="PrimaryButtonHoverBorderBrush"
+         Color="{DynamicResource PrimaryButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="PrimaryButtonPressBorderBrush"
+         Color="{DynamicResource PrimaryButtonPressBorderColor}" />
+
+    <!-- Secondary Button Brushes -->
+    <SolidColorBrush x:Key="SecondaryButtonBrush"
+         Color="{DynamicResource SecondaryButtonColor}" />
+    <SolidColorBrush x:Key="SecondaryButtonHoverBrush"
+         Color="{DynamicResource SecondaryButtonHoverColor}" />
+    <SolidColorBrush x:Key="SecondaryButtonPressBrush"
+         Color="{DynamicResource SecondaryButtonPressColor}" />
+
+    <SolidColorBrush x:Key="SecondaryButtonBorderBrush"
+         Color="{DynamicResource SecondaryButtonBorderColor}" />
+    <SolidColorBrush x:Key="SecondaryButtonHoverBorderBrush"
+         Color="{DynamicResource SecondaryButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="SecondaryButtonPressBorderBrush"
+         Color="{DynamicResource SecondaryButtonPressBorderColor}" />
+
+    <!-- Logo Button Brushes -->
+    <SolidColorBrush x:Key="LogoButtonBrush"
+         Color="{DynamicResource LogoButtonColor}" />
+    <SolidColorBrush x:Key="LogoButtonHoverBrush"
+         Color="{DynamicResource LogoButtonHoverColor}" />
+    <SolidColorBrush x:Key="LogoButtonPressBrush"
+         Color="{DynamicResource LogoButtonPressColor}" />
+
+    <SolidColorBrush x:Key="LogoButtonBorderBrush"
+         Color="{DynamicResource LogoButtonBorderColor}" />
+    <SolidColorBrush x:Key="LogoButtonHoverBorderBrush"
+         Color="{DynamicResource LogoButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="LogoButtonPressBorderBrush"
+         Color="{DynamicResource LogoButtonPressBorderColor}" />
+
+    <!-- Page Button Brushes -->
+    <SolidColorBrush x:Key="PageButtonBrush"
+         Color="{DynamicResource PageButtonColor}" />
+    <SolidColorBrush x:Key="PageButtonHoverBrush"
+         Color="{DynamicResource PageButtonHoverColor}" />
+    <SolidColorBrush x:Key="PageButtonPressBrush"
+         Color="{DynamicResource PageButtonPressColor}" />
+    <SolidColorBrush x:Key="PageButtonDisabledBrush"
+         Color="{DynamicResource PageButtonDisabledColor}" />
+
+    <SolidColorBrush x:Key="PageButtonBorderBrush"
+         Color="{DynamicResource PageButtonBorderColor}" />
+    <SolidColorBrush x:Key="PageButtonHoverBorderBrush"
+         Color="{DynamicResource PageButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="PageButtonPressBorderBrush"
+         Color="{DynamicResource PageButtonPressBorderColor}" />
+    <SolidColorBrush x:Key="PageButtonDisabledBorderBrush"
+         Color="{DynamicResource PageButtonDisabledBorderColor}" />
+
+    <!-- Close Button Brushes -->
+    <SolidColorBrush x:Key="CloseButtonBrush"
+         Color="{DynamicResource CloseButtonColor}" />
+    <SolidColorBrush x:Key="CloseButtonHoverBrush"
+         Color="{DynamicResource CloseButtonHoverColor}" />
+    <SolidColorBrush x:Key="CloseButtonPressBrush"
+         Color="{DynamicResource CloseButtonPressColor}" />
+
+    <SolidColorBrush x:Key="CloseButtonBorderBrush"
+         Color="{DynamicResource CloseButtonBorderColor}" />
+    <SolidColorBrush x:Key="CloseButtonHoverBorderBrush"
+         Color="{DynamicResource CloseButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="CloseButtonPressBorderBrush"
+         Color="{DynamicResource CloseButtonPressBorderColor}" />
+
+    <!-- Control Button Brushes -->
+    <SolidColorBrush x:Key="ControlButtonBrush"
+         Color="{DynamicResource ControlButtonColor}" />
+    <SolidColorBrush x:Key="ControlButtonHoverBrush"
+         Color="{DynamicResource ControlButtonHoverColor}" />
+    <SolidColorBrush x:Key="ControlButtonPressBrush"
+         Color="{DynamicResource ControlButtonPressColor}" />
+
+    <SolidColorBrush x:Key="ControlButtonBorderBrush"
+         Color="{DynamicResource ControlButtonBorderColor}" />
+    <SolidColorBrush x:Key="ControlButtonHoverBorderBrush"
+         Color="{DynamicResource ControlButtonHoverBorderColor}" />
+    <SolidColorBrush x:Key="ControlButtonPressBorderBrush"
+         Color="{DynamicResource ControlButtonPressBorderColor}" />
+
+    <!-- Status Brushes -->
+    <SolidColorBrush x:Key="OnlineBrush"
+         Color="{DynamicResource OnlineColor}" />
+    <SolidColorBrush x:Key="OfflineBrush"
+         Color="{DynamicResource OfflineColor}" />
+
+</ResourceDictionary>
