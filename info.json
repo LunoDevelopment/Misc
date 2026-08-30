@@ -1,5 +1,1556 @@
 {
-  "version": "1.0.0",
-  "sha256": "F5CA1D5864E05BD9DC36FFD0248B12CE734B932D26015212F71072A47F8590E7",
-  "executable": "Luno.exe"
+  "Version": "0.0.1",
+  "Sha256": "97442D52F2CFC64053B19627D4F21A02CD55B49BF3254C765F10D3CF83207266",
+  "Executable": "Luno.exe",
+  "Signature": "MyABxh8WOrJIIG28b2S/kahj32q2y1G8z36OpevTX4OD\u002BQhRTH\u002Bbf5tiRWGnN0CA9Gjc9FxkdnnObuVOWaJODw==",
+  "Files": [
+    {
+      "Path": "Luno.exe",
+      "Sha256": "F5CA1D5864E05BD9DC36FFD0248B12CE734B932D26015212F71072A47F8590E7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Crashpad/metadata",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Crashpad/settings.dat",
+      "Sha256": "8023FC000B9EB79B479BA94D37C3B7A52B412D8A26535DE37042647961BF3FCD"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Crashpad/throttle_store.dat",
+      "Sha256": "41C91A9C93D76295746A149DCE7EBB3B9EE2CB551D84365FFF108E59A61CC304"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/AutofillAiModelCache/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/AutofillStrikeDatabase/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BookmarkMergedSurfaceOrdering",
+      "Sha256": "4489F9E3E454748B3521EB214E0A5694D562CFF3D9FF511CB456953C8F534C00"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BrowsingTopicsSiteData",
+      "Sha256": "71A956CF71030A295CC2E0EE4694BE069DE8739D39150DEE5CE685EFF32F75B7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BrowsingTopicsSiteData-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BrowsingTopicsState",
+      "Sha256": "4B77E4FB34AC5145D571A4C65DCBCEBFBB4554D90A535C288280C8AC4C3A050B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BudgetDatabase/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/BudgetDatabase/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/Cache_Data/data_0",
+      "Sha256": "D6A5FE39CD672781B256E0E3102F7022635F1D4BB7CFCC90A80FFFE4D0F3877E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/Cache_Data/data_1",
+      "Sha256": "B1E963D702392FB7224786E7D56D43973E9B9EFD1B89C17814D7C558FFC0CDEC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/Cache_Data/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/Cache_Data/data_3",
+      "Sha256": "E09F42C398D688DCE168570291F1F92D079987DEDA3099A34ADB9E8C0522B30C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/Cache_Data/index",
+      "Sha256": "AFC0371A632ACB61E4EBE42E7371A22409CC02B9F0597C15EAA37EAB4FE20FE5"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/No_Vary_Search/journal.baj",
+      "Sha256": "9C169428D852E25BD59B27652ED533D2A1F09F96E4C329FA5E06F47E16731543"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Cache/No_Vary_Search/snapshot.baf",
+      "Sha256": "0C2DD377ED0CC66161E9DB8F89F7D8BCB3AD8C06C4A054BDCBA214AB05F58C9A"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ClientCertificates/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ClientCertificates/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Code Cache/js/index",
+      "Sha256": "FBCFE23A2ECB82B7100C50811691DDE0A33AA3DA8D176BE9882A9DB485DC0F2D"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Code Cache/js/index-dir/the-real-index",
+      "Sha256": "46BA1D9B0E7E48CA547868FAF244DC0CFCBEE9F82DB1DA2CCCAF0521883DA645"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Code Cache/wasm/index",
+      "Sha256": "FBCFE23A2ECB82B7100C50811691DDE0A33AA3DA8D176BE9882A9DB485DC0F2D"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Code Cache/wasm/index-dir/the-real-index",
+      "Sha256": "A32A97A33C5BAF23F4AC2AC4158B87C164F40BD145D2DEDF54A0B7A57D19EFE7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DIPS",
+      "Sha256": "A9FA3249E26CDF1D8417C530A181343A350CE0545DBEC3B268E9BCF9AF650039"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_0",
+      "Sha256": "D6A5FE39CD672781B256E0E3102F7022635F1D4BB7CFCC90A80FFFE4D0F3877E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_1",
+      "Sha256": "B1E963D702392FB7224786E7D56D43973E9B9EFD1B89C17814D7C558FFC0CDEC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnGraphiteCache/data_3",
+      "Sha256": "E09F42C398D688DCE168570291F1F92D079987DEDA3099A34ADB9E8C0522B30C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnGraphiteCache/index",
+      "Sha256": "4BBA4CCF090FA126A24787DEF1A53C0393B9FC91F5C9EAD4F35496CAB150E3BE"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_0",
+      "Sha256": "D6A5FE39CD672781B256E0E3102F7022635F1D4BB7CFCC90A80FFFE4D0F3877E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_1",
+      "Sha256": "B1E963D702392FB7224786E7D56D43973E9B9EFD1B89C17814D7C558FFC0CDEC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnWebGPUCache/data_3",
+      "Sha256": "E09F42C398D688DCE168570291F1F92D079987DEDA3099A34ADB9E8C0522B30C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/DawnWebGPUCache/index",
+      "Sha256": "26097DC2D09B3001E7C5A26A93F9CBBCA9BFDA05F978E44279A983B02C6B42BC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/EdgeSessions/SessionRestoreLog",
+      "Sha256": "E7874F9572DF3E78F33655B56A8F0CB9CA8DF25A119885360B9BAB46E40EEBFE"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Rules/000003.log",
+      "Sha256": "1C43A1BDA1E458863C46DFAE7FB43BFB3E27802169F37320399B1DD799A819AC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Rules/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Rules/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Rules/LOG",
+      "Sha256": "9E198421CFAA79345F52AB5072E3695715476B1D5195E1ECDB55B52A8DA7F934"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Rules/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Scripts/000003.log",
+      "Sha256": "1C43A1BDA1E458863C46DFAE7FB43BFB3E27802169F37320399B1DD799A819AC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Scripts/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Scripts/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Scripts/LOG",
+      "Sha256": "A7AE552CD159EA5EBA428D79BF3C23894A417A5BDBE4E5C891AE059F73985FB2"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension Scripts/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension State/000003.log",
+      "Sha256": "E2610960C3757D1757F206C7B84378EFA22D86DCF161A98096A5F0E56E1A367E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension State/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension State/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension State/LOG",
+      "Sha256": "E1362B081956DEF2AABD33ABDFEF10042F4F0C27A3FEB67E234900EB4024612B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Extension State/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ExtensionActivityComp",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ExtensionActivityEdge",
+      "Sha256": "AA8FA397C122E3C52A4CF9EF1078973E85DDE76729EBE9A2BE3CF061DC5D6E42"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ExtensionActivityEdge-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Favicons",
+      "Sha256": "3ACAA11CEFE4C5008978F3DB3014AE1F8939EE079C031832BEBE29D442292ADD"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Favicons-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/AvailabilityDB/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Feature Engagement Tracker/EventDB/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/GPUCache/data_0",
+      "Sha256": "D6A5FE39CD672781B256E0E3102F7022635F1D4BB7CFCC90A80FFFE4D0F3877E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/GPUCache/data_1",
+      "Sha256": "B1E963D702392FB7224786E7D56D43973E9B9EFD1B89C17814D7C558FFC0CDEC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/GPUCache/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/GPUCache/data_3",
+      "Sha256": "E09F42C398D688DCE168570291F1F92D079987DEDA3099A34ADB9E8C0522B30C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/GPUCache/index",
+      "Sha256": "D8544EC4E0895FA296E8BA4FCF11F4625E7BC0EB3DF728B0ED06D7495ABB0F5C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/History",
+      "Sha256": "24B43B2D34BA11CC55C7E4FFA07DDEA3B2EE9CC61888A1E15107E7D1CE319C49"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/History-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Local Storage/leveldb/000003.log",
+      "Sha256": "8BD2EA70A0B70C91DE138A5B87C7936C6A6FA7C4275C54B97F4EF0CCC5B79BB4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Local Storage/leveldb/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Local Storage/leveldb/LOG",
+      "Sha256": "81F97D9035706134A08005C45705618B3D2DA05EB4ADC1A2E5138D89358A69CD"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Local Storage/leveldb/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Login Data",
+      "Sha256": "8CC791561CB03AB43E11EFDB930E3E74F22ECF51B8AD9782F13785334515822B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Login Data For Account",
+      "Sha256": "8CC791561CB03AB43E11EFDB930E3E74F22ECF51B8AD9782F13785334515822B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Login Data For Account-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Login Data-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network Action Predictor",
+      "Sha256": "E229F1676F9123961E814197FBEA469176DEFEC9780BC1D089FFEA10D187E6D7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network Action Predictor-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Cookies",
+      "Sha256": "C8E5017B318BCC84B0F02BDFE8B7C8FFDF2982E3B7EB6C54BEE7DE6C27D16C2F"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Cookies-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Device Bound Sessions",
+      "Sha256": "ED90C803DBAC3E3D245FE75145506230F1B47DFC7F16274C79DD1565ADE4E014"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Device Bound Sessions-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Network Persistent State",
+      "Sha256": "5E6F9F94EA7D759EA1B26102C75DDFBB800E9B56614EE3C8E81544D3E6389BE4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/NetworkDataMigrated",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Reporting and NEL",
+      "Sha256": "8B86BBE225327A60BB03ABCAE3E4F927367240F7DF368C8BF1D9DBE309686506"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Reporting and NEL-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/SCT Auditing Pending Reports",
+      "Sha256": "4F53CDA18C2BAA0C0354BB5F9A3ECBE5ED12AB4D8E11BA873C2F11161202B945"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Sdch Dictionaries",
+      "Sha256": "6028BD681DBF11A0A58DDE8A0CD884115C04CAA59D080BA51BDE1B086CE0079D"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Trust Tokens",
+      "Sha256": "8B5A62A399E316009E0C0EE1727EDE327893D7F82F38A136E795422B3F9C333C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Network/Trust Tokens-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/PersistentOriginTrials/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Preferences",
+      "Sha256": "0C0F6C72DA283C09236062E53E77BD7D51F77060AEEEC2ED72A4BE9B7DCF81BC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/README",
+      "Sha256": "A0C9ABAE18599F0A65FC654AD36251F6330794BEA66B718A09D8B297F3E38E87"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Secure Preferences",
+      "Sha256": "99B0E8BCA60E1597AA49A4C1D3D64BA14F4C3025BC3085437B1DBA981A004DAB"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ServerCertificate",
+      "Sha256": "4D2411474FD0BD7237BAE798A21959C422DCCC3275D742B8DE4440CC244B22CE"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/ServerCertificate-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Session Storage/000003.log",
+      "Sha256": "FFD700CF04BE6FE8D51E2FFB8A2E37BC3FA95A6679A4102FA35E8494C2350EAE"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Session Storage/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Session Storage/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Session Storage/LOG",
+      "Sha256": "DCC1B3A532BC5C51AD384D102EE07D62EAAB4994A8F3A3BB05C2D7BA0036063D"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Session Storage/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Shared Dictionary/cache/index",
+      "Sha256": "FBCFE23A2ECB82B7100C50811691DDE0A33AA3DA8D176BE9882A9DB485DC0F2D"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Shared Dictionary/cache/index-dir/the-real-index",
+      "Sha256": "F8C811FAA48D2C5CE32A7E7D16B4A0F862220175F1FB4797CBA51124C971CE04"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Shared Dictionary/db",
+      "Sha256": "FBB86C665B2FED35C372CE8996EB1C4E31082AEDD6AD5FC6086CFAC889C3471B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Shared Dictionary/db-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Site Characteristics Database/000003.log",
+      "Sha256": "F096BC366A931FBA656BDCD77B24AF15A5F29FC53281A727C79F82C608ECFAB8"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Site Characteristics Database/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Site Characteristics Database/LOG",
+      "Sha256": "C9B8055C3EAE9F506B2182224FA1B6C6C324E5C9525AFB5266E8D118E4671603"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Site Characteristics Database/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/000003.log",
+      "Sha256": "8FF00D859349A3EA206706CDD3FA2762AE7C8EFE2FDD33A95A72FEE45AAC6BC4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/LOG",
+      "Sha256": "36EF1589C2B0C158623A8BE75D345DA885D5DF7D422B514E8E1B830E14277DCD"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Sync Data/LevelDB/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Top Sites",
+      "Sha256": "89EE604DE30002EF14C912D3CC7797A0828FE4A89821BC87743B80E377085E67"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Top Sites-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Vpn Tokens",
+      "Sha256": "621C0B0003EF5568AB968AA855FAC40B4870947445DD78D060ACFEC7D3CDEAF5"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Vpn Tokens-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Web Data",
+      "Sha256": "8A1A9F00C47926175D8F8C4A3A0268884F46EA1B84CDA247979267ADA8F7C800"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/Web Data-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/commerce_subscription_db/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/declarative_performance_observer.db",
+      "Sha256": "610DA3F204433431C7C0626B7488888CC40E732EBE759F6399A8AC348EB4CA25"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/declarative_performance_observer.db-journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/discount_infos_db/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/discount_infos_db/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/discounts_db/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/discounts_db/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/favorites_diagnostic.log",
+      "Sha256": "22199874A74E7417833441BCCC642A3EFBD2315FA7013F62AD40FD51523026D2"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/optimization_guide_hint_cache_store/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/parcel_tracking_db/LOG",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/000003.log",
+      "Sha256": "D6C6E4A2E8903C8467B4A8BA0BE2FEB6CC80B509F6171FE278486696E258144C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/LOG",
+      "Sha256": "9212C8E6375F04DA9D4852B0F4F3CF604CFE2AC706B0CC92026E80094621A23C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/000003.log",
+      "Sha256": "84D5BBBB19DC87C2E61B83F2ED98982FF4B5AA945F3A9DB30076800D971633FC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/CURRENT",
+      "Sha256": "0F1BAD70C7BD1E0A69562853EC529355462FCD0423263A3D39D6D0D70B780443"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOCK",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/LOG",
+      "Sha256": "025BA63C4312466B32A6423656761CEE9DED756CC660AA97FF8CA2449F1D83CB"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Default/shared_proto_db/metadata/MANIFEST-000001",
+      "Sha256": "F9D31B278E215EB0D0E9CD709EDFA037E828F36214AB7906F612160FEAD4B2B4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/4D7II35C5RCKCVUN22WTIUQM2H5TLXKK/cache.db",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/4D7II35C5RCKCVUN22WTIUQM2H5TLXKK/cache.db-wal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GPUPersistentCache/DawnGraphiteCache/4D7II35C5RCKCVUN22WTIUQM2H5TLXKK/cache.journal",
+      "Sha256": "E3B0C44298FC1C149AFBF4C8996FB92427AE41E4649B934CA495991B7852B855"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/data_0",
+      "Sha256": "F3B0756447A1753A399632EE2D108DBB468BA8F259BC7BFA0BC0FD29CCBCEF68"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/data_1",
+      "Sha256": "AA38E27E8BFE003500DF28B42CA5CD8978932C3FEC69E9F3ABB230064DCE6435"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/data_3",
+      "Sha256": "BA11CBAAF3C5E56AA6FE7DC5E5D6F8C7CE907EC918ACAAA40682CBA6BBE436C0"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/f_000001",
+      "Sha256": "1120BEC5F48643E1F4E14FC4D646BE05105C8CD54FB1C0F79FDB56EB1A0C1EA2"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/GrShaderCache/index",
+      "Sha256": "2F8671E0FDD974ADB5FCAAC7C0129A1FFA46B784F5233B1A165EA22802628866"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Last Version",
+      "Sha256": "F1F1881F6048BB1A91823E041B6AA1D02C9BECB52E7BA40D3E975C21B230E417"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Local State",
+      "Sha256": "77A0664DDEAC80E9ADBCB99518A943A95E6897AE3B6BBD78E31C4ED72EFCE79A"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/ShaderCache/data_0",
+      "Sha256": "D6A5FE39CD672781B256E0E3102F7022635F1D4BB7CFCC90A80FFFE4D0F3877E"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/ShaderCache/data_1",
+      "Sha256": "B1E963D702392FB7224786E7D56D43973E9B9EFD1B89C17814D7C558FFC0CDEC"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/ShaderCache/data_2",
+      "Sha256": "EC1702806F4CC7C42A82FC2B38E89835FDE7C64BB32060E0823C9077CA92EFB7"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/ShaderCache/data_3",
+      "Sha256": "E09F42C398D688DCE168570291F1F92D079987DEDA3099A34ADB9E8C0522B30C"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/ShaderCache/index",
+      "Sha256": "40BEF240EB30C8F4986157B69FA0E39A6D2FAF647A8E81893CBC0C397F0E101F"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings",
+      "Sha256": "D8D672F953E823063955BD9981532FC3453800C2E74C0CC3653D091088ABD3B3"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/SmartScreen/RemoteData/customSettings_F95BA787499AB4FA9EFFF472CE383A14",
+      "Sha256": "2BAE8302F9BD2D87AE26ACF692663DF1639B8E2068157451DA4773BD8BD30A2B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings",
+      "Sha256": "42CCB5159B168DBE5D5DDF026E5F7ED3DBF50873CFE47C7C3EF0677BB07B90D4"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/SmartScreen/RemoteData/edgeSettings_2.0-0",
+      "Sha256": "E6BEB5AC43DFA3E05CA3C40C4E5DE7D763E2E0580203AD9034C6F0527AC0E45B"
+    },
+    {
+      "Path": "Luno.exe.WebView2/EBWebView/Variations",
+      "Sha256": "B26DA4F8C7E283AA74386DA0229D66AF14A37986B8CA828E054FC932F68DD557"
+    },
+    {
+      "Path": "bin/Monaco/Editor.html",
+      "Sha256": "3AD6CE796F8768D2B4B5F4A54E3BAB5F6E88DC38E3A6572A691CA3C511B4777D"
+    },
+    {
+      "Path": "bin/Monaco/Fonts/JetBrainsMono-Regular.ttf",
+      "Sha256": "1F376439C75AB33392EB7A2F5EC999809493B378728D723327655C9FCB45CEA9"
+    },
+    {
+      "Path": "bin/Monaco/Fonts/JetBrainsMono-Regular.woff2",
+      "Sha256": "D43399032A7A3C539287A31645DED08075A3CA72DE0921B62A51F65C3CA7A002"
+    },
+    {
+      "Path": "bin/Monaco/assets/images/logo.png",
+      "Sha256": "B14E2AFC6100E39E3BFACC7DDB92B2C7153157BF2DDEDECECDA51802A5C3663F"
+    },
+    {
+      "Path": "bin/Monaco/assets/images/preview-minimap.png",
+      "Sha256": "DCC40ED49D49C28B06D4CF9753321DB62786E895CD9CB4A028353D620AB4DEE5"
+    },
+    {
+      "Path": "bin/Monaco/assets/images/preview.png",
+      "Sha256": "9BF533D74C466F65A05EA188C7E0B074B9332C2DBCCE617630F425E3045E88B9"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/COMMIT_EDITMSG",
+      "Sha256": "8F5E2233E7AE80102CEF42DD0DBF32FFC19EFA73001FC7C30CD940224459DB52"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/FETCH_HEAD",
+      "Sha256": "9BEA54FCD8C2804E4D2E4098942E0DED3DCD1531B1F1BFBBEB5F8AE05B5D4228"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/HEAD",
+      "Sha256": "28D25BF82AF4C0E2B72F50959B2BEB859E3E60B9630A5E8C603DAD4DDB2B6E80"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/config",
+      "Sha256": "A2F2B0CEECB53E80DD8D7BBBDAAFF5166F8589E345BF645912B4BF4767635A04"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/description",
+      "Sha256": "85AB6C163D43A17EA9CF7788308BCA1466F1B0A8D1CC92E26E9BF63DA4062AEE"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/applypatch-msg.sample",
+      "Sha256": "0223497A0B8B033AA58A3A521B8629869386CF7AB0E2F101963D328AA62193F7"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/commit-msg.sample",
+      "Sha256": "1F74D5E9292979B573EBD59741D46CB93FF391ACDD083D340B94370753D92437"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/fsmonitor-watchman.sample",
+      "Sha256": "E0549964E93897B519BD8E333C037E51FFF0F88BA13E086A331592BF801FA1D0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/post-update.sample",
+      "Sha256": "81765AF2DAEF323061DCBC5E61FC16481CB74B3BAC9AD8A174B186523586F6C5"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-applypatch.sample",
+      "Sha256": "E15C5B469EA3E0A695BEA6F2C82BCF8E62821074939DDD85B77E0007FF165475"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-commit.sample",
+      "Sha256": "57185B7B9F05239D7AB52DB045F5B89EB31348D7B2177EAB214F5EB872E1971B"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-merge-commit.sample",
+      "Sha256": "D3825A70337940EBBD0A5C072984E13245920CDF8898BD225C8D27A6DFC9CB53"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-push.sample",
+      "Sha256": "ECCE9C7E04D3F5DD9D8ADA81753DD1D549A9634B26770042B58DDA00217D086A"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-rebase.sample",
+      "Sha256": "4FEBCE867790052338076F4E66CC47EFB14879D18097D1D61C8261859EAAA7B3"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/pre-receive.sample",
+      "Sha256": "A4C3D2B9C7BB3FD8D1441C31BD4EE71A595D66B44FCF49DDB310252320169989"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/prepare-commit-msg.sample",
+      "Sha256": "E9DDCAA4189FDDD25ED97FC8C789ECA7B6CA16390B2392AE3276F0C8E1AA4619"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/push-to-checkout.sample",
+      "Sha256": "A53D0741798B287C6DD7AFA64AEE473F305E65D3F49463BB9D7408EC3B12BF5F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/sendemail-validate.sample",
+      "Sha256": "44EBFC923DC5466BC009602F0ECF067B9C65459ABFE8868DDC49B78E6CED7A92"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/hooks/update.sample",
+      "Sha256": "8D5F2FA83E103CF08B57EAA67521DF9194F45CBDBCB37DA52AD586097A14D106"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/index",
+      "Sha256": "4A7C9F986EE7C1324308E99977F907FF48F17495B92936A681EBFAEDFE58B163"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/info/exclude",
+      "Sha256": "6671FE83B7A07C8932EE89164D1F2793B2318058EB8B98DC5C06EE0A5A3B0EC1"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/logs/HEAD",
+      "Sha256": "7A532D06AFE7B6DB4ED51B32C0BAABAA9C7A9EDC978EBAD92F67DB2A137B87B0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/logs/refs/heads/main",
+      "Sha256": "7A532D06AFE7B6DB4ED51B32C0BAABAA9C7A9EDC978EBAD92F67DB2A137B87B0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/logs/refs/remotes/origin/HEAD",
+      "Sha256": "A8FF6E5923AC10E1242F183ADC4926914E4E757C8269E5E62B8D5500D64E82C0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/logs/refs/remotes/origin/main",
+      "Sha256": "374F4128F8878BD0EC443E381879E58B066C7A9E4AB1839692363FFB0C293AEF"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/01/6d6bfb3b0ec2921e4d7248bc72a63143192fb5",
+      "Sha256": "211FCFC43AE08DC365BF72E4156F77B1F750EB42F8B4C494B57D5D9945260DE7"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/01/6e9a1e000af380e5512c4bdb85aec40db82477",
+      "Sha256": "8BB1A360271D53A4AD27C6A9250F410A4C6991220B5524EA17D537E38F79C019"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/03/b5b67585519120ee925797b27d5ad0b5c14b5d",
+      "Sha256": "C53F7A0A1E9639EE928CD085D64997EBD8395AAB24AAA8E98607DAF5D3FA9153"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/03/bb084b682b28456b91ecf3387daf7681abdf1f",
+      "Sha256": "842CB4B4DBEC0CBBB5C8C9FDFE66140399216E44F061793500F4F12D9825E9DB"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/0a/dc44e9c6edfbaf48c3bd3a5c100e2a064fc43c",
+      "Sha256": "40A25C62BF31EE1D4976215DA4FDC6950A7FCD4721283F0AAC0DE52B909E7E81"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/10/74349d15aa93bc0cbcc512c0a5c6a7abc476a7",
+      "Sha256": "57ED5629F4E60FCD4CEEDAB9B6C6E57F75CD1AC10A1F8CAC2AFA751A41F46C09"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/12/399a042a8736170f0de4e993123c384205ce26",
+      "Sha256": "103718E928A145F93686D294CDD0AC3540D67427A90B269A89B50005C19723AC"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/15/fe0e0f5367c2ac4eb22aa0955463fab8d36ca6",
+      "Sha256": "72C98FD8E3C765428440542B3B263A30F4F932FAC24C618FCB6AA85B7A30F3B7"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/21/9f5b8846032ff9eb62bfccf3cbc7daf36a51d2",
+      "Sha256": "4EDCDA34A539F5DE86B125FF8616FFB97B73689D24D4ABA0ECD6ED89E2B8F1AC"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/29/798c8898b9a9f5561ccbefbf641ce569d795d8",
+      "Sha256": "521B9EB63B4DF1A56CF960150E2C280A48B0A84C21D6E077CF120CABA5BD07F6"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/29/fa7cc60bb3566b95fecad64edf7777f3f111b5",
+      "Sha256": "39262A45615C871BACB283999A1A69682F094D864D3B6F10A59F0EC87253CDE0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/2d/1ab264a79da746960c171ef99fc69bad7563c6",
+      "Sha256": "5CB725441C55BD99A985B522E54069B682869A969E6416540F82ABB75E9FD706"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/2f/7b47bb638939e4bf1f2b0fea89a5bc7c8e2ec2",
+      "Sha256": "46C41240583AD74A0D8958CCEF17722A48FC3C415EBFB82BDE73FC4E8FD946F8"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/34/ef7d2817d156051bba30c7451e992af7574b70",
+      "Sha256": "F80C24C2E54DEBCB8ED4A5E305455DAFC9A2C35F7A55185248554D49799AFE95"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/37/5ddd8e09e6ae2acc9acce8c65223b6eea7187f",
+      "Sha256": "8F36DE5A2543BEB2B95D438D8A82FFB7FA1552E5AA2BBCBD8C5B4DA8CDD53009"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/3f/695d34f0054355be350a125fb97dff240e3e3d",
+      "Sha256": "5CB48E7B083D6FFD0799C2415A3F1FC22F9127858A2869EE9EFA2B97773C0D4F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/41/ed7ab0634daf5c2c8cb52d6285b2fb2226265a",
+      "Sha256": "D50A030181B1322CF32C9FF958FFFE15C874C5C211522C6EBEF280A72A525C67"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/44/1a8711cbba7dcddbfe738a49b5b39c07ee720f",
+      "Sha256": "782FA84DBC45563E7341206966B6FA9BCC22F49B0552791B0C44DF59F46C4076"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/47/a322731ebbe95e542cdf1c8a053078289210e7",
+      "Sha256": "4366AF4CEF0BACA910BA932EBC08A0F48E89EB919069242C41D5DD6F0BCCA7FB"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/49/30afe4812a1a23f9b733e7015be63abe5ae78d",
+      "Sha256": "77E2083D650A022E0D3543836F6B1FA51CA7B4A3CCA0355742549FB9EE0220BE"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/4d/89571643dc7adb4ebab28041ce6b8d2c78966f",
+      "Sha256": "44DAC6176D70F5907C5C9DD183CA054162B184CCBBC9E5AB9FE4B6EAB4115462"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/54/6a54bd2728ad4a9a4abe4569ca39a09b5ab5f9",
+      "Sha256": "D7608689ED1E7BA56DD97B7A53B0AD87F7C83E3FFE67D2E0BFF7129027D1C7BA"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/54/8f9c6cade01497a5bf6af75b3c7e240cd17b57",
+      "Sha256": "058BAC51F344805877D33181CDE1F3399E027F10A5ABCEBD22EDD6327B535EBD"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/55/af61bc9a6077d1edc11f1b47d5e57f84d1ccd8",
+      "Sha256": "6A04A7DFC5780983244EE4113051364A3215530CA2A665E1CA74A43E49350831"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/5f/2f00fe8a67ed930196bb687539f4bb529d60e5",
+      "Sha256": "D0C76D93802D3DFF65B62BDA77ADB749C3373BCD3BD1E9377F27990FD7C47901"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/5f/63993d089d8f816f373a4122de419761e9a9e9",
+      "Sha256": "28E48548F5037F039BC6AE396F06D8FE75E0B927DB0C52E6375410124AAFE6EA"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/60/0e6327a55e814f7bec25c3ba5d454489333ee0",
+      "Sha256": "082F94CA44010304A8F6F4CC39262C556FFA1B1F4CCFF3FE9EEF4286B2D2ED94"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/63/0e33e2b5fd3a553d6594f6f07cda578720b802",
+      "Sha256": "00116ECC0F4AF157E4822306F8D10AC59FEB6DCF36862C6517B672658519EB3D"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/66/89226060dc0fbba6c279d7ca70999c91fb9c97",
+      "Sha256": "8F25AC9C0DE6E22B096AFD3B3EE142EBA5E24C5D0293970D021E3F20F586AFD1"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/68/7f8544d2a76a31079f61704706060113775c3f",
+      "Sha256": "49E664449B70C5DC193874AC18D554A637837673BDA0AA34D7140C40BFDE5C98"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/69/2bc5f89c1b410be82aab8b45dfa627a9f44890",
+      "Sha256": "75FA75CEB29D245F47B47154EE91CF551A1EB271B1F6F2707D07E1C70F2E8824"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/6b/55ad759c86fcdd18c9f777402d25d91c761dae",
+      "Sha256": "558C6861AC95DC9EE398669934CBB8D003C99316D88F10FD9FB35C8112A46527"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/6c/905d716913bee1cb85bc7f98c43e548c8d54f3",
+      "Sha256": "7792FE48EAEFA5BD0EC0A5FC7B58EF5506FA248DF6B849913B11F2340B4FD91D"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/6d/7a69003fb4ce1224e81a833ca7631d70eac292",
+      "Sha256": "C7D60F5B29C6798B075D71DE4625B35C5179C6CC0ABE4B78EE6537A2E84646AB"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/71/a762ddd43c218fbb869405a1eb2068a075c007",
+      "Sha256": "7DD132D52A89D84F0FAC45EE4B3883AC86B39782A1124495A8DD74D2BB9E175B"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/73/6f84e1e07b98c451d101cda322e5c6baaa472c",
+      "Sha256": "0E4FC170C11D6887B8D555EE1A5743B7C31B70B23C23407DA7C5AAC7C739E818"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/75/505e44923db248a84bd54dc47bd4e04340a9fb",
+      "Sha256": "93FA5298391AE86120500F8EB17312B2D1E2DAB73ADA36F502687FBEE63C754B"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/7f/0386092b9c22311db70ed984d1b7bd22610511",
+      "Sha256": "C218B3618A6D71D0CADB4870C15B8260EF827FBD2BD0B08F3758E35097FA3B9F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/7f/4c430a08ec789870719638bf0d506c7eb918e4",
+      "Sha256": "55395EE5E00CA486F36ED25E53B488D1461B9D349C8B8B90C0530723DEEFD6F5"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/81/b3ff9532bd1204d6f764a9265fea3ecc81f160",
+      "Sha256": "C688AB4BCD618A5329F26A64B8CC34B8A0E6FBC1AB127E8BE122B2662C813046"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/82/de701082004f6311161bed6b47e6742ee1cf0c",
+      "Sha256": "5A656EDD7B7829E62AB2DCF9CC600397AB3EE913C831223718D7490060B84558"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/8a/9e218491d9240fc651fcfae2c30035dc22d31f",
+      "Sha256": "7BBF664B072154FB3E081B300D55C475DF646738DE775A8D2BA8CEBF251C463F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/8a/f4c3e2f254be0c11634a25b21f7f0faac33969",
+      "Sha256": "33E211A477F73B1A123DDD481692AF6C1CD39C6D355870324C1B05CE3F2E89D4"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/8b/79dbda7b7bb479a54dc69f309a4e38212c24eb",
+      "Sha256": "59782E27E5CF9686125CE161A178C368581C7FDF86BA1AD2BB195810AA2246DC"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/98/03deb6ab00208b799c130dfa3e4996cf6e5b88",
+      "Sha256": "00000D9EC6737043B98BA120E204E06597C5A5AE47B8AFF9DFF01DD7C712728D"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/9c/de3b6294243e8b9b4d8454185ac5f04dbbac6c",
+      "Sha256": "D204E1C415C7DD2BE4E7A2F362FB7CB25D94D155ABA275937FDD71F49954CBBA"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/a2/c0627ee6aed2b63638321cded69c4afa68a1ed",
+      "Sha256": "56911BF905D703E93474876BF06895472842C43B3BB2C27430D4A89B0CA21E45"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/ac/eb1a9766387a2c0bd47f53e55ead0397bbd6eb",
+      "Sha256": "DA44F7ED768138896BAFDEF10E530A16ACCB69EED8075C4D51A76684A6A5C1BC"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/b0/f24f41cedf37d14799338b6f6c7801b7ba6670",
+      "Sha256": "42E648EA4DAA3EE7AA61751FE44C1E9089A7DCF3231B16E057740948B1699C06"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/b3/56389516a00e56bdc59da7f81bca146817795d",
+      "Sha256": "DC6E07EC39776680F10B2CAE4515446DD445474623BB574CA22BEEDA449B7E90"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/b3/b6302dce1cf0fd6b6678c67c766e5ba29429d1",
+      "Sha256": "733C24CAD29EDA6AD8790440255E6A16D410B7B7C7DDC5126C526814927DD1F0"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/b6/27af1d29b145af8d1d299d664491341430b3df",
+      "Sha256": "544141F4D9EB6F299AC49083B733205807A3114A146CBF6FE8BB1992A8AB0EC6"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/b9/e3189ffbc53d17123f366d0ffca8f07d36db03",
+      "Sha256": "16D4E2DF6E5CF483E8A7B2030BDA3BE7107829A87B1B7FAB1D02B799C0728B0F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/bb/88b2e7930a17d1167c93895345f7f253a254d1",
+      "Sha256": "7CDCF3FB4ED8655C59C456B4D8E5422D3FDB507357767619F0BBABAC4B9597E2"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/be/52b719fff25547ec6411ffdb763b84453b4ad0",
+      "Sha256": "D8C6898B7EFE9AC4C5C6178F7A41FDF8D08969C4B940310DE0144BE37B8C6F8C"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/c1/8b07258fa24b2fb31d2856c80293eea1944505",
+      "Sha256": "BFDD62FE255D081FA79524D237FBA32876B322B047C33A760CB81E0F9BDE798C"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/c3/667a1850e8969fe2032006aeb0641c51bd077e",
+      "Sha256": "AB5A4F0119AD83E347180E0580CC69B7F3B55A19BA84F1180ACD8EA3320B394F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/c7/5a3c7fa6caee35089a1a47e27326120e4c362e",
+      "Sha256": "2D21464C51F3581D50DB7C7840C6979429405E9B6295BE035C834BF45815485A"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/ca/a890a9078d564d245e275bcd08ecf19fb94578",
+      "Sha256": "2860E59741C0D1835C930E9BB38CEADA54294EA426FCFFC01E81BA54112EE049"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/ca/f2751a3501e8fc49133d8efb966a2470b99ce4",
+      "Sha256": "71ABA3D807A8CC2D943B34DB11B52EE60386E3D17EC12D58020BF1E2061CBC88"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/cb/18e9e30bb4106e88fb2915faf3599107f52da1",
+      "Sha256": "EAD56687CC1809C242EDDFE0583DCD1EB80B4B3F99CAF6BA37D15B15881F0C6C"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/cc/25ed691256d022ab3505bab94070cc6147fea0",
+      "Sha256": "10173FCAC0CFA62754DD1A1A13CCD64EA06D59F8D42D3A83D1D80AE02FC03BB6"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/cc/9a1ae35fd64956c20fad63da0b4d56f8627aad",
+      "Sha256": "14A3E958B078F0AE1AF0F98B743B5000438E182295BCEDBD9712AD6CEB895B77"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/cd/a83d4c80d426b30a00da61a903c97671cdf9c7",
+      "Sha256": "11CC539273F8D3B4BDC7F55BBE4D90C6345745981E57F2F42F465DE8CB8922DC"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/cf/f7ea124774a28b8cd5720fcbc2e167288b3bcd",
+      "Sha256": "927F53BBC9E280D0979481644530FD5EE15A1FD82125084F1614E9885B224E3F"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/d0/53a58e6d287c6100e97e34811d736f6155098a",
+      "Sha256": "4DF53F322555BBBA903162A927E5F5B8392CCD1B9B9C4D712BA8CF1711042B38"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/d0/c10a09674ba0a799b47e8396991525f3073939",
+      "Sha256": "59004D50D8DE85DB87106BEA32B52D93218A33091C8518AE179585865F6063EF"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/d1/8c450f0418383a5657f088e5dcb8c7278d6920",
+      "Sha256": "556C44F24675524C5CA3D90FFA522E02905CCF194FAFDFAABDACBBDB382D05C1"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/d2/804467d1ae8f36d6962686b374ba48e115271e",
+      "Sha256": "D4479615ACE65DA3054F7C6F5BE345F403FABB37BA333BB975EF6099CB505F3B"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/d8/afd6531d42a999ff83746bc248bd2a0b958cf0",
+      "Sha256": "7D6D44BCD6E9DF93A4A0D2250B20CAC0A6D463AB7BB3E87188B92AF967615FDA"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/de/016c9b8b0877ff1caa3115a7dc69b3a6d12b44",
+      "Sha256": "E83E62103FD830BC120C5029D567644D936E0AA591F4B4FE8F8E5EA9E3E3C07C"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/f2/e014f0796829b01b701d8d8585fb848c384379",
+      "Sha256": "2B0C9EFC3BA421287CF466B225703D2E68CFFE096F91D41873F6DBCCAA0ECA97"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/f6/db36f0e3bc17caf0cb00d8461e251c78fb855e",
+      "Sha256": "F06F31F6FD8BFE0D35512A6484F728337E0B4E7D802B73FFD573D8785BF41A73"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/f7/44203e401d6a89a0d674d46f2bd796cf888a3a",
+      "Sha256": "37EBCEEFC59364FAA675A5AF63083964319A08F062433020B3B5E0710085FC17"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/objects/f7/78f44e2bc65fb16fe4800091e89ac76bbb777a",
+      "Sha256": "5E19AABAF99E88107EB7A021D8EF21B267BD2D565D289B1CD8D4DCE9A579FBA1"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/refs/heads/main",
+      "Sha256": "C79091ADFA81B1F15E71D4B8CC990C0F1C1AA203F23907AA694F20D9869741CB"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/refs/remotes/origin/HEAD",
+      "Sha256": "2BB6A24AA0FC6C484100F5D51A29BBAD841CD2C755F5D93FAA204E5DBB4EB2B4"
+    },
+    {
+      "Path": "bin/Monaco/editor/.git/refs/remotes/origin/main",
+      "Sha256": "C79091ADFA81B1F15E71D4B8CC990C0F1C1AA203F23907AA694F20D9869741CB"
+    },
+    {
+      "Path": "bin/Monaco/editor/Editor.html",
+      "Sha256": "1611E6CB146B5E374C0F86A8802DF690562F3EA8488A9FFC88B1F4B7B565FD07"
+    },
+    {
+      "Path": "bin/Monaco/editor/Fonts/JetBrainsMono-Regular.ttf",
+      "Sha256": "1F376439C75AB33392EB7A2F5EC999809493B378728D723327655C9FCB45CEA9"
+    },
+    {
+      "Path": "bin/Monaco/editor/Fonts/JetBrainsMono-Regular.woff2",
+      "Sha256": "D43399032A7A3C539287A31645DED08075A3CA72DE0921B62A51F65C3CA7A002"
+    },
+    {
+      "Path": "bin/Monaco/editor/LICENSE",
+      "Sha256": "0844FCB2F8A03F9889F99F7C0AD298AB67721FE74806ABC6AF846216357834C0"
+    },
+    {
+      "Path": "bin/Monaco/editor/README.md",
+      "Sha256": "8C9F5FB0FA0CF13171FC9F8AFC7C352A9251A345F827E1D6046C9AC40FE1FCD8"
+    },
+    {
+      "Path": "bin/Monaco/editor/assets/images/logo.png",
+      "Sha256": "B14E2AFC6100E39E3BFACC7DDB92B2C7153157BF2DDEDECECDA51802A5C3663F"
+    },
+    {
+      "Path": "bin/Monaco/editor/assets/images/preview-minimap.png",
+      "Sha256": "DCC40ED49D49C28B06D4CF9753321DB62786E895CD9CB4A028353D620AB4DEE5"
+    },
+    {
+      "Path": "bin/Monaco/editor/assets/images/preview.png",
+      "Sha256": "9BF533D74C466F65A05EA188C7E0B074B9332C2DBCCE617630F425E3045E88B9"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/base/browser/ui/codicons/codicon/codicon.ttf",
+      "Sha256": "4946E7465803CCAB735800D9236F188C2200D28B395E77727E9AA0BAA443B87A"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/base/worker/workerMain.js",
+      "Sha256": "19B566655D73370A820A7D6FFFE7AF03DBA3AF4997016C0983BE5BD188603EC2"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes.js",
+      "Sha256": "9636806A05DA6A43937D122E2211E8D2877ED95CAAF691F4F079DBAF47E0C6BB"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/base.js",
+      "Sha256": "9A6C60193EB2DDA7C2682BF9C7FF7E01B0F6000D70881583F0055782C8B2C619"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes.js",
+      "Sha256": "75418233AFF9A1401F6C467F8CA20999803436BC1EBB463123D1FB94DCFF1F38"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/DataModel.js",
+      "Sha256": "573E821C40792E10D2DAB59EE3483E2482379241C94B2B98EC5FB098556E3E89"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/Enum.js",
+      "Sha256": "9BD9C85C5D1F476E663889AB2008F83B323C8D794ABB0DF35D43091C689EF64D"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/EnumItem.js",
+      "Sha256": "F7ADA012DCC309B7C1CD272D1A81657B0DDB3D51521E682116522099285D525E"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/Enums.js",
+      "Sha256": "799C0657B0AB027C3EC0794E8934BED4A4A8E7F063DCAE47783A7F32FBEDA25C"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/Instance.js",
+      "Sha256": "807DD6D35BF5FFFCD4DE4AA4ED1800716223A6FE014077F23F2F652AC86D2A31"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/Model.js",
+      "Sha256": "17B72F11F227D6261E44B0BF49D6CDC4ED88CEF93C68384BA73F7550D9614D99"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/RBXScriptSignal.js",
+      "Sha256": "660F088E8DA6E3C7C16FF4DF184A92FE96C2B2FFB8C3B3411F30B68D93723DBA"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/ServiceProvider.js",
+      "Sha256": "60A9FA2721D16F3162F5701B7ADA27DE313794B97047CC7BBA25F82859E4C75E"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/classes/Workspace.js",
+      "Sha256": "251D21959744760AA1E79274B7A9FAD433FD42B2D3FB4783F56F0B070D06CF8E"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/functions-pd.js",
+      "Sha256": "BFA61F27075D554471F86DA10CDD3A6FB7A9CACE01A1BE0FED0B7725029C3FFE"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/functions.js",
+      "Sha256": "269C81AD08E8302BBD3BFC1463E2A4D5C263A20894536A913501BB36DF26A196"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/globals.js",
+      "Sha256": "B47709029F63CE553F7B83DECDE154A284ADDDEA509BFBCA6C5BF0B91AF6B9BC"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/keywords.js",
+      "Sha256": "3F4AE1C666488BB398EAE05C6EF9FDCF2E6C126F9B2510E6EEE43A8D64D21325"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/Drawing.js",
+      "Sha256": "611AECA1BDC19D0CD5FD440EBF5B07A9894FF44230E7F8CF8DB832B895A6D834"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/PD.js",
+      "Sha256": "039BC35B76E7137D2AF8E34BCC35ADC70D3C949099EDD198F9987676F6B0C9E5"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/debug.js",
+      "Sha256": "0D0AC2B75ED1010E26513A14E16DB3A1E28169C03DD46C74FFEA8C0D3C43FE34"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/math.js",
+      "Sha256": "619973AA7DA2C2BC8A34B121245BF083C3E90B1B9CCA9D8961DD2D07885F7588"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/table.js",
+      "Sha256": "A0667C2236748BB1FE38A9E874332BD573B54FD6F9DFED46D7F6E0296141B056"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/libraries/task.js",
+      "Sha256": "6368FD477FD1979301475990CFC2E7444B57C7F58691D1AA433F7463D8F2E0A0"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/modules-table.js",
+      "Sha256": "0AC3DCBAEF38A2E3FC08E9358EC14602B4147188B11A08099461EA37FA410D4F"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/modules.js",
+      "Sha256": "EFA8FEBA293A8A6CA2AF2EB9FEC2B17BFBBF84428A7A1C80E2A36584B6A0212C"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/params/DataModelServices.js",
+      "Sha256": "2F06D60E90C8A526F12EF0E450F77BEAEFDA0225B79EEC62B66950DA28C856B3"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/params/DrawingTypes.js",
+      "Sha256": "12D1A59F76C3608CD3FDBECB04C5AB72902E7A9B75AE40EDA196D3D129F54301"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/params/InstanceClasses.js",
+      "Sha256": "EA34D9E29984C31632C97210A20DB208C33E42776194786F2DE827C2997F5623"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/autocompletes/snippets.js",
+      "Sha256": "9B8838ACACD8610567B65DBB65981586CB4E23BA1AB8623BC285DDA454B813B9"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/lua.js",
+      "Sha256": "FE133EB425412C22EC82F1ED6D1D4F900FFF96DAB5471DA7650A136A0DE24BF1"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/lua/snippets.js",
+      "Sha256": "943CE614749F67DFFE97B2AFB88F3C76FD91545C4100A0E649D45E9FC9B98A03"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/basic-languages/monaco.contribution.js",
+      "Sha256": "42E79EC54895EE725C4F793B79FC5CA3C997A0193645060233277E524A7A34A4"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.css",
+      "Sha256": "85B305D49BAE83AE9FB7D5D1C84D93989E3DC252DB38A7DC07B7D349902A89CE"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.js",
+      "Sha256": "F9FFE3E01F9BF58AB25B37DA98EAF5E80F6E37F9347E663BF249D3A6190A28CA"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.de.js",
+      "Sha256": "217AAD6FE9CC93483F3423BD790C1D840B1ABA274439B7C8EC34B5D14811EED7"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.es.js",
+      "Sha256": "656DC966B4AB36A0D7846217A2434394810357CEF5CD3BC8877FAB4637C81F53"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.fr.js",
+      "Sha256": "9B7C1A14B3960B99B678DF79EF50713D8B2A61B53A3E40533CF7007653E4F3B8"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.it.js",
+      "Sha256": "5080D040135141347236DEABE17E3BB3136EEE2DB6F5B0BD172BD43EE5EA1CF3"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.ja.js",
+      "Sha256": "89C71964CE3A43359E7479E18456D25891698E770DCD2C371C4AA273DFEDCBAF"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.js",
+      "Sha256": "A1DB865CECA50D4DDBEBD7CB996617E9CA3003F142F9314BF12635A938435896"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.ko.js",
+      "Sha256": "8DFF673CEB0DCB5C4AB812CAAF7DD5F275F787A0DF6305104C635062C692F1DC"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.ru.js",
+      "Sha256": "6D66CEA2AFB2DB2CE4A9DD69AFC992D27CAFB87A4774AFD056504BE69EA6B910"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.zh-cn.js",
+      "Sha256": "32FB2DC839E58028EA4962F45FB6BE774E74F2D526546D705D816B5B01AADB58"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/editor/editor.main.nls.zh-tw.js",
+      "Sha256": "659EFBD4E50609B5C17D6C13C588D3E69C6378688204C264F7D37C606F07BF53"
+    },
+    {
+      "Path": "bin/Monaco/editor/vs/loader.js",
+      "Sha256": "D423BEFDD508B4540874B3DEE8FD559FB7A0E56A29D7CA774EAED0DF784BC2F1"
+    },
+    {
+      "Path": "bin/Monaco/vs/base/browser/ui/codicons/codicon/codicon.ttf",
+      "Sha256": "4946E7465803CCAB735800D9236F188C2200D28B395E77727E9AA0BAA443B87A"
+    },
+    {
+      "Path": "bin/Monaco/vs/base/worker/workerMain.js",
+      "Sha256": "19B566655D73370A820A7D6FFFE7AF03DBA3AF4997016C0983BE5BD188603EC2"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes.js",
+      "Sha256": "9636806A05DA6A43937D122E2211E8D2877ED95CAAF691F4F079DBAF47E0C6BB"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/base.js",
+      "Sha256": "9A6C60193EB2DDA7C2682BF9C7FF7E01B0F6000D70881583F0055782C8B2C619"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes.js",
+      "Sha256": "75418233AFF9A1401F6C467F8CA20999803436BC1EBB463123D1FB94DCFF1F38"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/DataModel.js",
+      "Sha256": "573E821C40792E10D2DAB59EE3483E2482379241C94B2B98EC5FB098556E3E89"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/Enum.js",
+      "Sha256": "9BD9C85C5D1F476E663889AB2008F83B323C8D794ABB0DF35D43091C689EF64D"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/EnumItem.js",
+      "Sha256": "F7ADA012DCC309B7C1CD272D1A81657B0DDB3D51521E682116522099285D525E"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/Enums.js",
+      "Sha256": "799C0657B0AB027C3EC0794E8934BED4A4A8E7F063DCAE47783A7F32FBEDA25C"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/Instance.js",
+      "Sha256": "807DD6D35BF5FFFCD4DE4AA4ED1800716223A6FE014077F23F2F652AC86D2A31"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/Model.js",
+      "Sha256": "17B72F11F227D6261E44B0BF49D6CDC4ED88CEF93C68384BA73F7550D9614D99"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/RBXScriptSignal.js",
+      "Sha256": "660F088E8DA6E3C7C16FF4DF184A92FE96C2B2FFB8C3B3411F30B68D93723DBA"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/ServiceProvider.js",
+      "Sha256": "60A9FA2721D16F3162F5701B7ADA27DE313794B97047CC7BBA25F82859E4C75E"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/classes/Workspace.js",
+      "Sha256": "251D21959744760AA1E79274B7A9FAD433FD42B2D3FB4783F56F0B070D06CF8E"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/functions-pd.js",
+      "Sha256": "BFA61F27075D554471F86DA10CDD3A6FB7A9CACE01A1BE0FED0B7725029C3FFE"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/functions.js",
+      "Sha256": "269C81AD08E8302BBD3BFC1463E2A4D5C263A20894536A913501BB36DF26A196"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/globals.js",
+      "Sha256": "B47709029F63CE553F7B83DECDE154A284ADDDEA509BFBCA6C5BF0B91AF6B9BC"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/keywords.js",
+      "Sha256": "3F4AE1C666488BB398EAE05C6EF9FDCF2E6C126F9B2510E6EEE43A8D64D21325"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/Drawing.js",
+      "Sha256": "611AECA1BDC19D0CD5FD440EBF5B07A9894FF44230E7F8CF8DB832B895A6D834"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/PD.js",
+      "Sha256": "039BC35B76E7137D2AF8E34BCC35ADC70D3C949099EDD198F9987676F6B0C9E5"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/debug.js",
+      "Sha256": "0D0AC2B75ED1010E26513A14E16DB3A1E28169C03DD46C74FFEA8C0D3C43FE34"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/math.js",
+      "Sha256": "619973AA7DA2C2BC8A34B121245BF083C3E90B1B9CCA9D8961DD2D07885F7588"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/table.js",
+      "Sha256": "A0667C2236748BB1FE38A9E874332BD573B54FD6F9DFED46D7F6E0296141B056"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/libraries/task.js",
+      "Sha256": "6368FD477FD1979301475990CFC2E7444B57C7F58691D1AA433F7463D8F2E0A0"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/modules-table.js",
+      "Sha256": "0AC3DCBAEF38A2E3FC08E9358EC14602B4147188B11A08099461EA37FA410D4F"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/modules.js",
+      "Sha256": "EFA8FEBA293A8A6CA2AF2EB9FEC2B17BFBBF84428A7A1C80E2A36584B6A0212C"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/params/DataModelServices.js",
+      "Sha256": "2F06D60E90C8A526F12EF0E450F77BEAEFDA0225B79EEC62B66950DA28C856B3"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/params/DrawingTypes.js",
+      "Sha256": "12D1A59F76C3608CD3FDBECB04C5AB72902E7A9B75AE40EDA196D3D129F54301"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/params/InstanceClasses.js",
+      "Sha256": "EA34D9E29984C31632C97210A20DB208C33E42776194786F2DE827C2997F5623"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/autocompletes/snippets.js",
+      "Sha256": "9B8838ACACD8610567B65DBB65981586CB4E23BA1AB8623BC285DDA454B813B9"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/lua.js",
+      "Sha256": "FE133EB425412C22EC82F1ED6D1D4F900FFF96DAB5471DA7650A136A0DE24BF1"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/lua/snippets.js",
+      "Sha256": "943CE614749F67DFFE97B2AFB88F3C76FD91545C4100A0E649D45E9FC9B98A03"
+    },
+    {
+      "Path": "bin/Monaco/vs/basic-languages/monaco.contribution.js",
+      "Sha256": "42E79EC54895EE725C4F793B79FC5CA3C997A0193645060233277E524A7A34A4"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.css",
+      "Sha256": "85B305D49BAE83AE9FB7D5D1C84D93989E3DC252DB38A7DC07B7D349902A89CE"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.js",
+      "Sha256": "F9FFE3E01F9BF58AB25B37DA98EAF5E80F6E37F9347E663BF249D3A6190A28CA"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.de.js",
+      "Sha256": "217AAD6FE9CC93483F3423BD790C1D840B1ABA274439B7C8EC34B5D14811EED7"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.es.js",
+      "Sha256": "656DC966B4AB36A0D7846217A2434394810357CEF5CD3BC8877FAB4637C81F53"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.fr.js",
+      "Sha256": "9B7C1A14B3960B99B678DF79EF50713D8B2A61B53A3E40533CF7007653E4F3B8"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.it.js",
+      "Sha256": "5080D040135141347236DEABE17E3BB3136EEE2DB6F5B0BD172BD43EE5EA1CF3"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.ja.js",
+      "Sha256": "89C71964CE3A43359E7479E18456D25891698E770DCD2C371C4AA273DFEDCBAF"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.js",
+      "Sha256": "A1DB865CECA50D4DDBEBD7CB996617E9CA3003F142F9314BF12635A938435896"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.ko.js",
+      "Sha256": "8DFF673CEB0DCB5C4AB812CAAF7DD5F275F787A0DF6305104C635062C692F1DC"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.ru.js",
+      "Sha256": "6D66CEA2AFB2DB2CE4A9DD69AFC992D27CAFB87A4774AFD056504BE69EA6B910"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.zh-cn.js",
+      "Sha256": "32FB2DC839E58028EA4962F45FB6BE774E74F2D526546D705D816B5B01AADB58"
+    },
+    {
+      "Path": "bin/Monaco/vs/editor/editor.main.nls.zh-tw.js",
+      "Sha256": "659EFBD4E50609B5C17D6C13C588D3E69C6378688204C264F7D37C606F07BF53"
+    },
+    {
+      "Path": "bin/Monaco/vs/loader.js",
+      "Sha256": "D423BEFDD508B4540874B3DEE8FD559FB7A0E56A29D7CA774EAED0DF784BC2F1"
+    },
+    {
+      "Path": "bin/Themes/Arctic.xaml",
+      "Sha256": "2B4713251D5FB2A267ABDCD603F4C74C1127C658808BC19DD23E285A2592AD8C"
+    },
+    {
+      "Path": "bin/Themes/Crimson.xaml",
+      "Sha256": "4D909FBA84B9E8CD6A25F7EF5697B884C27BB84A087D3B8FD5AD7705F979660E"
+    },
+    {
+      "Path": "bin/Themes/Cyberpunk.xaml",
+      "Sha256": "B642E15F5583651650F0AC16CB3B216A3FE510EBBF8DA970ADE2EFC69210E86F"
+    },
+    {
+      "Path": "bin/Themes/Default Light.xaml",
+      "Sha256": "945A196A4AC626A77E6B8C89838B88EC8CAB7E33BE50736EF4D0F026935A7178"
+    },
+    {
+      "Path": "bin/Themes/Default.xaml",
+      "Sha256": "2B8249E6F7EC73D57045531DF3DDB1D390592A949EA891B00B9E8E7E2A1224F0"
+    },
+    {
+      "Path": "bin/Themes/Emerald.xaml",
+      "Sha256": "491A1A7E176A1342F9DA38B1E90C7DE60F3C2CF16681A2CEAFFC9DEF0E3EDF54"
+    },
+    {
+      "Path": "readme.txt",
+      "Sha256": "8990CDCB3FBCC43DF8D7B317FED873839EC63847946F5DA7147B20D775D59B6E"
+    }
+  ]
 }
