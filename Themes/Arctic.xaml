@@ -1,6 +1,8 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
+    <!-- Arctic Theme -->
+
     <!-- Base Window Colors -->
 
     <Color x:Key="PrimaryWindowColor">#091018</Color>
